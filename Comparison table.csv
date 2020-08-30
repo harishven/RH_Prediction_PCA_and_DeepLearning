@@ -1,0 +1,11 @@
+﻿Model,Train score ,Test Score,PCA train score,PCA test score
+KNN Regressor,0.94,0.95,0.94,0.95
+Linear Regression,0.91,0.9,0.89,0.89
+Polynomial Regression,0.99,0.99,0.98,0.99
+Ridge,0.9,0.91,0.89,0.88
+Lasso,0.8,0.8,0.76,0.75
+Linear SVC,0.9,0.91,0.89,0.88
+SVC - Linear kernel,0.9,0.91,0.89,0.88
+SVC - RBF kernel,0.98,0.98,0.98,0.98
+SVC - Poly kernel,0.98,0.98,0.89,0.88
+Dtree Regressor,1,0.99,0.94,0.94
