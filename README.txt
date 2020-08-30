@@ -4,3 +4,4 @@ https://archive.ics.uci.edu/ml/datasets/Air+Quality#:~:text=UCI%20Machine%20Lear
 Prediction of Relative Humidity - PCA + DeepLearning
 
 Comparison table has scores with and without PCA
+(without PCA from - AirQuality_Prediction_of_RelativeHumidity)
